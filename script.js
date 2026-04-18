@@ -1,3 +1,3 @@
 console.log("hii")
 console.log("hello")
-console.log("one more script is added in main");
+console.log("new paragaph add in script.js in main")
