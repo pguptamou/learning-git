@@ -1,2 +1,5 @@
 console.log("hii")
-console.log("hello")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2472c5512308cdb491dedba75e08d662019f8029
