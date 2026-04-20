@@ -9,3 +9,6 @@ console.log("hello")
   console.log("techpragya");
 
 >>>>>>> 8d4e36862c7b31ff1bdc317406535d88864946fe
+function genereateRandomfunction(){
+    
+}
